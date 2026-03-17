@@ -68,7 +68,7 @@ Python · Pandas · Scikit-learn · imbalanced-learn · scorecardpy · Matplotli
 
 ## Authors
 
-Zeineb Jeljli — Data Science Engineering, ESSAI Tunis
+Zeineb Jeljli & Azza Wahabi — Data Science Engineering, ESSAI Tunis
 Supervised by Mme Chammam (PwC) — 2025/2026
 
 > The original dataset is confidential and not included in this repository.
